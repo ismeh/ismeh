@@ -7,7 +7,7 @@ I'm a passionate computer science student with a keen interest in Machine Learni
 
 <!-- About Me -->
 ## About Me 🚀
-- 🌱 I’m currently learning Computer Vision and [Data Analyst Learning Path](https://www.cloudskillsboost.google/journeys/18)
+- 🌱 I’m currently learning [Computer Vision](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/vision-computador-computac-sistintel/guia-docente) and [Data Analyst Learning Path](https://www.cloudskillsboost.google/journeys/18)
 - 👯 I'm currently seeking internship opportunities with companies that have partnerships or agreements with my university, UGR.
 - 📫 How to reach me: [Email](mailto:gadeismael@hotmail.com)
 
