@@ -1,15 +1,9 @@
 <!-- Title -->
-# Hello, I'm Ismael Tengo Rodríguez 👋
+# Hello, I'm Ismael 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ismaeltengo/)
 
 <!-- Introduction -->
-I'm a passionate computer science student with a keen interest in Machine Learning, Data Science, and Software Development.
-
-<!-- About Me -->
-## About Me 🚀
-- 🌱 I’m currently learning [Computer Vision](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/vision-computador-computac-sistintel/guia-docente) and [Data Analyst Learning Path](https://www.cloudskillsboost.google/journeys/18)
-- 👯 I'm currently seeking internship opportunities with companies that have partnerships or agreements with my university, UGR.
-- 📫 How to reach me: [Email](mailto:gadeismael@hotmail.com)
+I'm a passionate computer science student with a keen interest in Software and Web Development, Data Science and Machine Learning.
 
 <!-- Tech Stack -->
 ## Tech Stack 💻
