@@ -8,7 +8,7 @@ I'm a passionate computer science student with a keen interest in Software and W
 <!-- Tech Stack -->
 ## Tech Stack 💻
 - Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS
+- Web Development: HTML, CSS, JavaScript, React, Angular
 - Databases: SQL
 - Tools: Git, VS Code, IntelliJ IDEA
 - Operating Systems: Linux, Windows
