@@ -5,7 +5,7 @@
 <!-- Introduction -->
 I'm a passionate computer science student with a keen interest in Software and Web Development, Data Science and Machine Learning.
 
-I'm currently developing an web platform to organize tennis tournaments for amateurs and professionals players.
+I'm currently developing a web platform to organize tennis tournaments for amateurs and professionals players.
 
 <!-- Tech Stack -->
 ## Tech Stack 💻
